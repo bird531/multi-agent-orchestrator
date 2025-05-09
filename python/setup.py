@@ -1,4 +1,4 @@
-Este código es demasiado mínimo y probablemente cause un error cuando lo ejecutes, ya que `setup()` necesita argumentos para definir el paquete. Si has recibido un error, ¿podrías compartir el mensaje de error exacto? Eso me ayudaría a i
+
 
 ```python
 from setuptools import setup, find_packages
