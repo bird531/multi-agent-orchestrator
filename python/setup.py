@@ -15,4 +15,3 @@ setup(
 )
 ```
 
-Si solo ejecutas `setup()` sin argumentos, es probable que obtengas un error indicando que faltan parámetros esenciales. ¡Dime qué mensaje de error ves y te ayudaré a solucionarlo! 🚀
